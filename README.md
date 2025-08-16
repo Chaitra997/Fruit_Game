@@ -8,3 +8,7 @@ This game uses computer vision to track hand gestures for controlling the player
 - Programmed fruit generation and movement logic.
 - Created gesture-to-action mappings (e.g., hand moves = basket moves).
 - Built score tracking and visual feedback overlays for game interaction.
+
+![Uploading Game.png…]()
+
+![Uploading Game over.png…]()
